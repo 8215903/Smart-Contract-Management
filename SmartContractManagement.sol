@@ -1,5 +1,3 @@
-#SmartContractManagement.js
-
 import { useState } from "react";
 
 export default function MicoMod2() {
